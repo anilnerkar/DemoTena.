@@ -45,6 +45,7 @@ class LoginPage extends BasePage {
 		return await this.isElementEnabled(
 			loginPageBotImage,
 			testData.notVisibleText
+		
 		)
 	}
 

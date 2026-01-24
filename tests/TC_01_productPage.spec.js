@@ -123,7 +123,7 @@ test.describe.parallel(
 					await productsPage.onesieItem()
 					await productsPage.bikeLightItem()
 					await productsPage.fleeceJacketItem()
-					await productsPage.tshirtRedItem()
+					await productsPage.tshirtRedItem() 
 				}
 			)
 
